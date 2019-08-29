@@ -2,6 +2,7 @@
 
 ## Dataset:
 * news.csv
+
 This file contains 3000 lines of data because Github has limitation while uploading.
 
 ## This project contains 4 sub projects:
